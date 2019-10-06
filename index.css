@@ -5,3 +5,12 @@
 .project p {
   margin-top: 5px;
 }
+
+body {
+  font-family: monospace;
+  font-size: 12px;
+}
+
+h2 {
+  font-size: 12px;
+}
